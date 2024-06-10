@@ -1,0 +1,44 @@
+p3{
+    color: green;
+
+   font-family: arial black;
+   text-transform: capitalize;
+   
+  
+  font-size: 3em;
+  font-size: 100%;
+
+}
+p4{
+
+color:brown;
+
+
+
+   font-family: arial brown;
+   text-decoration: dotted;
+  
+
+
+
+font: size 3em; ;
+font-size: 100%;
+}
+p{
+   color: blue;
+
+  font-family: geneva blue ;
+   text-transform: capitalize;
+
+
+
+   font-size: 3em;
+   font-size:100%;
+
+
+
+}
+
+p3:hover{
+  text-shadow: 10px;
+}
